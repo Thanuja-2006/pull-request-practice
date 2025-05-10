@@ -1,2 +1,2 @@
 # pull-request-practice
-Repository for practicing pull requests
+This Repository is for Practicing the Github pull request Wordflow
